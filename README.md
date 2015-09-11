@@ -6,5 +6,5 @@ Library to consume the RDW API using python
 ```python
 from pyrdw import pyrdw
 
-print(pyrdw.get('30-XJ-RT'))
+print(pyrdw.get('86-TJ-ZL'))
 ```
